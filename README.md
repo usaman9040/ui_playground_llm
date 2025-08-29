@@ -2,6 +2,11 @@
 
 **Flutter UI playground with Gemini AI integration - modify app interface in real-time using natural language commands. Built with Stacked MVVM architecture for seamless AI-driven UI customization.**
 
+## 📱 Demo
+
+https://github.com/user-attachments/assets/066b1b6f-4cf8-49c3-8560-e8437249018e
+
+
 ## ✨ Features
 
 - 🎨 **AI-Powered UI Customization**: Modify colors, sizes, and text using natural language
